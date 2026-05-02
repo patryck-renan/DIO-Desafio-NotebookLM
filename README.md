@@ -46,3 +46,33 @@ O material base para criação do notebook foi extraído das seguintes referênc
 | **Análise Financeira** | [Arquivo Interno](./calculo-juros-compostos.md) | Cálculos matemáticos comparando os rendimentos da Poupança e do Tesouro Direto Pré-fixado. |
 
 ---
+
+# 🛠️ Engenharia de Prompts e "Cicatrizes"
+
+Nesta seção, documento o raciocínio por trás da construção das informações e como a Inteligência Artificial foi guiada para gerar o conteúdo deste guia.
+
+### 🧠 Estratégia de Interação
+Como o objetivo deste projeto é ser um guia básico para iniciantes, optei por utilizar **perguntas simples e diretas** ao invés de prompts super estruturados. A intenção foi simular as dúvidas reais de um usuário comum que está começando a explorar o Tesouro Direto.
+
+As perguntas feitas ao **NotebookLM** foram:
+<details>
+<summary> ❓ <b>O que é o Tesouro Direto e como investir?</b> </summary>
+</details>
+<details>
+<summary> ❓ <b>Quanto rende o Tesouro Direto comparado à poupança?</b> </summary>
+</details>
+<details>
+<summary> ❓ <b>Quais os riscos de vender o título antes do vencimento?</b> </summary>
+</details>
+<details>
+<summary> ❓ <b>Existe valor mínimo para começar a investir?</b> </summary>
+</details>
+<details>
+<summary> ❓ <b>Qual o investimento mínimo em reais para cada título hoje?</b> </summary>
+</details>
+
+### 🩹 "Cicatrizes" e Aprendizados (Troubleshooting)
+Durante o desenvolvimento, um ponto de atenção (ou "cicatriz") foi observado no comportamento da ferramenta:
+
+* **Fidelidade aos Dados (RAG):** Achei interessante que, mesmo insistindo na questão do valor mínimo em reais, a ferramenta não inventa nem tenta auferir valores pois não possui essa informação em sua base de fontes. 
+* **Comportamento Diferenciado:** Notei um comportamento diferente de outras ferramentas de IA Generativa tradicionais. Acredito que essa precisão e a recusa em "alucinar" dados numéricos voláteis ocorram devido à tecnologia **RAG (Retrieval-Augmented Generation)** usada no NotebookLM, que limita as respostas ao contexto dos documentos fornecidos.

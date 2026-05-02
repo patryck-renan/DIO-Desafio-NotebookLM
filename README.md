@@ -43,7 +43,7 @@ O material base para criação do notebook foi extraído das seguintes referênc
 | **Vantagens e Desvantagens** | [Bora Investir (B3)] | Detalhes sobre benefícios, riscos e passo a passo prático. |
 | **Como Investir** | [ANBIMA] | Guia estrutural sobre remuneração, custos e tributação (IR/IOF). |
 | **Diretrizes Institucionais** | [CAIXA] | Informações sobre horários de liquidação e isenções de custódia. |
-| **Análise Financeira** | [Arquivo Interno](./calculo-juros-compostos.md) | Cálculos matemáticos comparando os rendimentos da Poupança e do Tesouro Direto Pré-fixado. |
+| **Análise Financeira** | [Patryck Pereira](./docs/calculo-juros-compostos.md) | Cálculos matemáticos comparando os rendimentos da Poupança e do Tesouro Direto Pré-fixado. |
 
 ---
 
@@ -137,9 +137,9 @@ Nesta seção, você encontra o resultado final consolidado deste projeto, criad
 
 ### 📁 Documentos de Estudo (Internos)
 
-*   📝 **[Resumos Estruturados](./resumo.md):** Um compilado direto ao ponto com os principais funcionamentos, vantagens e diferenças entre os títulos do Tesouro Direto.
-*   📚 **[Glossário de Conceitos](./glossario.md):** Um dicionário prático para consulta rápida dos principais termos financeiros aprendidos durante o projeto.
-*   🤖 **[Prompts Reutilizáveis](./prompts.md):** Um conjunto de prompts pré-configurados para você copiar, colar na IA e realizar novas simulações ou testes de conhecimento.
+*   📝 **[Resumo Estruturado](./docs/resumo.md):** Um compilado direto ao ponto com os principais funcionamentos, vantagens e diferenças entre os títulos do Tesouro Direto.
+*   📚 **[Glossário de Conceitos](./docs/glossario.md):** Um dicionário prático para consulta rápida dos principais termos financeiros aprendidos durante o projeto.
+*   🤖 **[Prompts Reutilizáveis](./docs/prompts.md):** Um conjunto de prompts pré-configurados para você copiar, colar na IA e realizar novas simulações ou testes de conhecimento.
 
 ### 🌐 Materiais de Apoio (Externos)
 
@@ -152,7 +152,7 @@ Para uma visão ainda mais ampla ou para apresentar o projeto a terceiros, consu
 
 <div align="center">
     Desenvolvido por <strong><a href="https://www.linkedin.com/in/patryck-pereira-5104a6140/">Patryck Pereira</a></strong>.<br>
-    Projeto parte do Bootcamp <strong>Riachuelo - Cibersegurança</strong> da plataforma:
+    Projeto parte do Bootcamp da DIO.
     <br><br>
     <a href="https://web.dio.me/home">
         <img src="https://img.shields.io/badge/Desafio-DIO-0077B6?style=for-the-badge" alt="Desafio DIO Badge">

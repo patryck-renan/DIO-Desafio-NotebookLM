@@ -7,6 +7,18 @@
 
 ---
 
+## 🧠 Desenvolvido com Google NotebookLM
+
+![NotebookLM](https://img.shields.io/badge/Powered_by-NotebookLM-1A73E8?style=for-the-badge&logo=google)
+
+Este projeto foi estruturado e analisado com o apoio do **Google NotebookLM**, atuando como um assistente de pesquisa virtual especializado. 
+
+A escolha dessa ferramenta foi estratégica: por utilizar a tecnologia **RAG (Retrieval-Augmented Generation)**, o NotebookLM garante que todas as respostas, resumos e glossários sejam gerados **exclusivamente com base nos documentos oficiais** fornecidos (B3, ANBIMA, CAIXA, Tesouro Nacional e cálculos matemáticos próprios). Isso elimina o risco de "alucinações" comuns em outras IAs generativas, garantindo a fidelidade e a segurança dos dados financeiros apresentados neste guia.
+
+🔗 **[Acesse o Notebook do Projeto aqui](https://notebooklm.google.com/notebook/ca149f9b-500b-406a-b83d-e4bd8fc6f53f)**
+
+---
+
 ## 📌 Contexto
 
 O **Tesouro Direto** é um programa da Secretaria do Tesouro Nacional criado em 2002 em parceria com a B3. 

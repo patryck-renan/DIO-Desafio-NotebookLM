@@ -80,15 +80,47 @@ Por fim, é preciso se atentar às **tributações e taxas** envolvidas no proce
 </details>
 <details>
 <summary> ❓ <b>Quanto rende o Tesouro Direto comparado à poupança?</b> </summary>
+
+Comparando um cenário de investimento de 5 anos, **o Tesouro Direto apresenta um rendimento expressivamente superior ao da caderneta de poupança**.
+
+Para entender essa diferença na prática, podemos observar uma simulação de cálculo de juros compostos:
+
+- **Poupança:** Considerando uma taxa de 7,97%, o investimento na poupança ao longo de 5 anos gera um rendimento efetivo acumulado de **46,72%** (o equivalente a uma média de 9,34% ao ano).
+- **Tesouro Direto (Prefixado):** Utilizando como exemplo um título Tesouro Prefixado (LTN) oferecido no final de abril de 2026 com taxa de 13,88% ao ano e vencimento para 2031. Se você mantiver o título até o vencimento, terá o desconto da menor alíquota de Imposto de Renda, que é de 15%. Deduzindo esse imposto, a sua taxa líquida passa a ser de 11,79% ao ano. Ao final de 5 anos, os juros compostos sobre essa taxa líquida geram um rendimento total de **74,58%** (uma média de 14,91% ao ano).
+
+Neste exemplo, mesmo após descontar o Imposto de Renda, **o título do Tesouro Direto rendeu quase 28 pontos percentuais a mais que a poupança** (74,58% líquido contra 46,72%) no período estipulado.
+Cabe lembrar que a Poupança tem sua rentabilidade atrelada à Taxa Referencial (TR) e à Selic, enquanto no Tesouro Direto você pode escolher títulos prefixados, pós-fixados pela Selic ou indexados à inflação (IPCA), o que vai ditar a exata rentabilidade da sua aplicação dependendo do momento da economia e do prazo do investimento.
+
 </details>
 <details>
 <summary> ❓ <b>Quais os riscos de vender o título antes do vencimento?</b> </summary>
+
+O principal risco de vender um título do Tesouro Direto antes do prazo acordado é o **risco de marcação a mercado**. Isso significa que, ao tentar vender títulos como o Tesouro Prefixado ou o Tesouro IPCA+ de forma antecipada, **o valor que você receberá dependerá do preço do título no mercado no exato momento da venda**, o qual sofre variações de acordo com as expectativas e variáveis econômicas. Se o título estiver desvalorizado em relação ao momento da compra, **essa venda pode resultar em perdas financeiras**.
+Além da marcação a mercado, existem outros fatores que você deve considerar ao solicitar o resgate antecipado:
+
+- **Incerteza do preço da venda em horários não úteis:** Se a sua ordem de venda for feita entre 18h e 5h, ou durante finais de semana e feriados, a transação não será fechada na hora. Ela será liquidada com os **preços de abertura do dia útil seguinte**. Nesses períodos fora do horário comercial, as taxas e preços exibidos no site servem apenas como referência e podem sofrer alterações até o momento da liquidação.
+- **Suspensão temporária do mercado:** Para proteger o investidor, o Tesouro Direto pode suspender os investimentos e resgates ao longo do dia para garantir que os preços e taxas estejam alinhados com o mercado, o que pode impactar o momento exato em que você consegue realizar a venda.
+- **Risco de liquidez:** Embora o Tesouro Direto permita vendas antecipadas, existe sempre o risco de você enfrentar um momento adverso no mercado onde não seja possível executar a sua venda pelo preço oportuno ou mais adequado para sua estratégia.
+- **Maior incidência de Impostos e Taxas:** Vender o título mais cedo afeta diretamente o rendimento líquido. Se o resgate ocorrer nos primeiros 29 dias de aplicação, haverá a cobrança de **IOF** sobre os rendimentos. Já o **Imposto de Renda** segue uma tabela regressiva, o que significa que resgates precoces pagam as maiores alíquotas, começando em 22,5% se a venda ocorrer nos primeiros 180 dias. Adicionalmente, a taxa de custódia cobrada pela B3 será imediatamente debitada da sua conta na ocorrência da venda antecipada.
+
+Por todos esses motivos, especialistas recomendam que o investidor se atente bastante ao prazo de vencimento na hora de escolher um título, buscando alinhar a data de resgate aos seus objetivos financeiros.
+
 </details>
 <details>
 <summary> ❓ <b>Existe valor mínimo para começar a investir?</b> </summary>
+
+Sim, existe um valor mínimo, mas ele não é um valor fixo em reais, pois varia de acordo com o preço do título escolhido no dia da compra.
+No Tesouro Direto, o investimento mínimo exigido deve ser múltiplo de **0,01 título**, o que significa que você pode comprar a partir de uma fração de **1% do valor de um título** (já descontando as taxas de serviços cobradas).
+Graças a essa regra das frações, o programa se destaca pela sua acessibilidade e democratização, permitindo que os investidores comecem a aplicar o seu dinheiro utilizando quantias bastante baixas. No site oficial, você pode conferir uma tabela com todos os títulos disponíveis, onde é exibido exatamente qual o investimento mínimo em reais para cada opção naquele momento.
+
 </details>
 <details>
 <summary> ❓ <b>Qual o investimento mínimo em reais para cada título hoje?</b> </summary>
+
+As fontes fornecidas não listam o valor mínimo exato em reais para cada título no dia de hoje.
+Como os preços dos títulos sofrem marcação a mercado e oscilam diariamente, o valor mínimo exigido em reais também muda todos os dias. A regra estabelecida pelo programa é que os aportes devem ser múltiplos de 0,01 título, o que corresponde a **1% do valor de um título**.
+Para consultar o investimento mínimo exato em reais de cada opção no dia de hoje, você deve acessar o **site oficial do Tesouro Direto**. O portal disponibiliza uma tabela atualizada com todos os títulos disponíveis, onde é possível verificar o preço unitário, as taxas de rentabilidade anual, o prazo de vencimento e o respectivo investimento mínimo exigido em reais. Alternativamente, você também pode checar esses valores na área de investimentos da plataforma digital do seu banco ou corretora.
+
 </details>
 
 ### 🩹 "Cicatrizes" e Aprendizados (Troubleshooting)

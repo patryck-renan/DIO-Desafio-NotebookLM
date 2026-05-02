@@ -57,6 +57,26 @@ Como o objetivo deste projeto é ser um guia básico para iniciantes, optei por 
 As perguntas feitas ao **NotebookLM** foram:
 <details>
 <summary> ❓ <b>O que é o Tesouro Direto e como investir?</b> </summary>
+   
+O **Tesouro Direto** é um programa criado em 2002 pela Secretaria do Tesouro Nacional em parceria com a B3 (antiga CBLC) que permite a pessoas físicas investirem em títulos da dívida pública federal. Na prática, **ao investir no Tesouro Direto, você está emprestando dinheiro para o governo federal** e, em troca, recebe esse valor de volta acrescido de juros que variam conforme o tipo de título e o prazo.
+Trata-se de uma modalidade de **renda fixa muito segura**, pois conta com a garantia do próprio Tesouro Nacional, apresentando o menor risco de crédito do mercado, conhecido como risco soberano. Além da alta segurança, o Tesouro Direto destaca-se pela **alta liquidez e pela acessibilidade**, democratizando o investimento ao permitir que você inicie com quantias baixas, já que é possível comprar frações a partir de 1% do valor de um título.
+
+Para decidir onde aplicar, é importante conhecer os **tipos de títulos disponíveis**:
+
+- **Tesouro Selic**: Título pós-fixado em que a rentabilidade acompanha a taxa básica de juros da economia. Por ter baixa volatilidade e altíssima liquidez, é considerado o título ideal para a formação de reserva de emergência.
+- **Tesouro Prefixado**: Possui uma taxa de juros fixa e determinada no momento da compra. É ideal para investidores que desejam ter a previsibilidade de saber exatamente quanto irão receber na data de vencimento do título.
+- **Tesouro IPCA+**: Oferece proteção contra a inflação, garantindo o poder de compra, pois seu rendimento é composto pela variação da inflação (IPCA) somada a uma taxa de juros fixa. É altamente indicado para a formação de reservas financeiras de longo prazo e planejamento de compras futuras.
+- **Tesouro RendA+ e Tesouro Educa+**: O RendA+ foi criado especificamente para o planejamento de aposentadoria, oferecendo pagamentos periódicos a partir de uma determinada data, enquanto o Educa+ é voltado para acumular e financiar com segurança os recursos para a educação.
+
+**Como investir no Tesouro Direto em 4 passos**:
+
+1. **Simulação:** Acesse o site oficial do Tesouro Direto e utilize a função Simulador, que ajuda a recomendar um título de acordo com os seus prazos e objetivos financeiros.
+2. **Cadastro em uma instituição:** Para investir, você precisa ser residente no Brasil e possuir conta em uma instituição financeira. Cadastre-se em um banco ou corretora de valores que seja habilitada para negociar os títulos. Vale notar que diversas corretoras e bancos isentam os investidores de taxas de administração.
+3. **Transferência de recursos:** Transfira o valor que você deseja investir para a conta desse banco ou corretora.
+4. Aplicação e acompanhamento:** Através da plataforma digital da sua corretora/banco ou utilizando o próprio site e aplicativo oficial do Tesouro Direto, você pode realizar as ordens de compra e controlar seus investimentos. É permitido investir até o limite máximo de R$ 2.000.000,00 por mês por pessoa.
+
+Por fim, é preciso se atentar às **tributações e taxas** envolvidas no processo. Os rendimentos do Tesouro Direto estão sujeitos ao Imposto de Renda, que incide através de uma tabela regressiva, cujas alíquotas começam em 22,5% e caem até 15% para investimentos mantidos por mais de 720 dias. Há também a cobrança de IOF, mas apenas se você resgatar o dinheiro nos primeiros 29 dias de aplicação. Além dos impostos, existe uma taxa de custódia cobrada pela B3 pelo serviço de guarda dos títulos, que é provisionada diariamente, embora exista isenção dessa taxa para montantes de até R$ 10.000,00 investidos especificamente no Tesouro Selic.
+
 </details>
 <details>
 <summary> ❓ <b>Quanto rende o Tesouro Direto comparado à poupança?</b> </summary>

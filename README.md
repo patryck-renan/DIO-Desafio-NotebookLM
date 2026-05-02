@@ -73,7 +73,7 @@ Para decidir onde aplicar, é importante conhecer os **tipos de títulos dispon�
 1. **Simulação:** Acesse o site oficial do Tesouro Direto e utilize a função Simulador, que ajuda a recomendar um título de acordo com os seus prazos e objetivos financeiros.
 2. **Cadastro em uma instituição:** Para investir, você precisa ser residente no Brasil e possuir conta em uma instituição financeira. Cadastre-se em um banco ou corretora de valores que seja habilitada para negociar os títulos. Vale notar que diversas corretoras e bancos isentam os investidores de taxas de administração.
 3. **Transferência de recursos:** Transfira o valor que você deseja investir para a conta desse banco ou corretora.
-4. Aplicação e acompanhamento:** Através da plataforma digital da sua corretora/banco ou utilizando o próprio site e aplicativo oficial do Tesouro Direto, você pode realizar as ordens de compra e controlar seus investimentos. É permitido investir até o limite máximo de R$ 2.000.000,00 por mês por pessoa.
+4. **Aplicação e acompanhamento:** Através da plataforma digital da sua corretora/banco ou utilizando o próprio site e aplicativo oficial do Tesouro Direto, você pode realizar as ordens de compra e controlar seus investimentos. É permitido investir até o limite máximo de R$ 2.000.000,00 por mês por pessoa.
 
 Por fim, é preciso se atentar às **tributações e taxas** envolvidas no processo. Os rendimentos do Tesouro Direto estão sujeitos ao Imposto de Renda, que incide através de uma tabela regressiva, cujas alíquotas começam em 22,5% e caem até 15% para investimentos mantidos por mais de 720 dias. Há também a cobrança de IOF, mas apenas se você resgatar o dinheiro nos primeiros 29 dias de aplicação. Além dos impostos, existe uma taxa de custódia cobrada pela B3 pelo serviço de guarda dos títulos, que é provisionada diariamente, embora exista isenção dessa taxa para montantes de até R$ 10.000,00 investidos especificamente no Tesouro Selic.
 
@@ -128,3 +128,33 @@ Durante o desenvolvimento, um ponto de atenção (ou "cicatriz") foi observado n
 
 * **Fidelidade aos Dados (RAG):** Achei interessante que, mesmo insistindo na questão do valor mínimo em reais, a ferramenta não inventa nem tenta auferir valores pois não possui essa informação em sua base de fontes. 
 * **Comportamento Diferenciado:** Notei um comportamento diferente de outras ferramentas de IA Generativa tradicionais. Acredito que essa precisão e a recusa em "alucinar" dados numéricos voláteis ocorram devido à tecnologia **RAG (Retrieval-Augmented Generation)** usada no NotebookLM, que limita as respostas ao contexto dos documentos fornecidos.
+
+---
+
+## 📖 Miniguia de Estudo (Entrega Final)
+
+Nesta seção, você encontra o resultado final consolidado deste projeto, criado para facilitar o aprendizado e futuras revisões sobre o mercado de renda fixa e o Tesouro Direto. O material foi organizado nos seguintes documentos:
+
+### 📁 Documentos de Estudo (Internos)
+
+*   📝 **[Resumos Estruturados](./resumo.md):** Um compilado direto ao ponto com os principais funcionamentos, vantagens e diferenças entre os títulos do Tesouro Direto.
+*   📚 **[Glossário de Conceitos](./glossario.md):** Um dicionário prático para consulta rápida dos principais termos financeiros aprendidos durante o projeto.
+*   🤖 **[Prompts Reutilizáveis](./prompts.md):** Um conjunto de prompts pré-configurados para você copiar, colar na IA e realizar novas simulações ou testes de conhecimento.
+
+### 🌐 Materiais de Apoio (Externos)
+
+Para uma visão ainda mais ampla ou para apresentar o projeto a terceiros, consulte os links abaixo:
+
+*   🔗 **[Guia Tesouro Direto](https://notebooklm.google.com/notebook/ca149f9b-500b-406a-b83d-e4bd8fc6f53f/artifact/5f02c897-705c-441a-905e-d59266f2f10c?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)**
+*   🖥️ **[Apresentação Tesouro Direto](https://notebooklm.google.com/notebook/ca149f9b-500b-406a-b83d-e4bd8fc6f53f/artifact/a1951a14-0843-4eb6-aee8-d0cd722f1fbf?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)**
+
+---
+
+<div align="center">
+    Desenvolvido por <strong><a href="https://www.linkedin.com/in/patryck-pereira-5104a6140/">Patryck Pereira</a></strong>.<br>
+    Projeto parte do Bootcamp <strong>Riachuelo - Cibersegurança</strong> da plataforma:
+    <br><br>
+    <a href="https://web.dio.me/home">
+        <img src="https://img.shields.io/badge/Desafio-DIO-0077B6?style=for-the-badge" alt="Desafio DIO Badge">
+    </a>
+</div>
